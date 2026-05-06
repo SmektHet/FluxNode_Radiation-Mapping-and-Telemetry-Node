@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" width="220">
+  <img src="docs/logo.png" width="550">
 </p>
 
 <h1 align="center">FluxNode</h1>
