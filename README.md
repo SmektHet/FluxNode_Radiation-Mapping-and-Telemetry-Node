@@ -60,6 +60,7 @@ FluxNode is designed as a portable and standalone monitoring platform that can t
 - 📊 Database logging and Grafana visualization
 - 🗺️ GPS-based radiation mapping
 - ⚠️ Sensor diagnostics and error handling
+- 📊 SD card and/or FRAM logging
 
 ---
 
@@ -69,5 +70,4 @@ FluxNode is designed as a portable and standalone monitoring platform that can t
 - 🖥️ OLED/LCD display
 - 🚨 Radiation threshold alerts
 - ⚛️ SiPM/scintillator support
-- 📡 LoRa communication support
 
