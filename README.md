@@ -29,14 +29,15 @@ FluxNode is designed as a portable and standalone monitoring platform that can t
 
 - [x] Initial research
 - [x] Project planning
-- [ ] High-voltage power supply prototype
-- [ ] Geiger tube integration
-- [ ] PCB design
+- [x] High-voltage power supply prototype
+- [x] Geiger tube integration
+- [x] REF 1 PCB
 - [ ] Firmware development
 - [ ] Sensor integration
 - [ ] Database connection
 - [ ] Grafana dashboard
 - [ ] System testing & validation
+- [ ] REF 2 PCB
 
 ---
 
